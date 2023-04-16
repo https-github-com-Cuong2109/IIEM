@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Trời đất ơi!!!Nhớ mà chẳng thấy nói gì',
     btnReply: 'Send',
     reply: 'Em nhớ anh mà ❤',
-    mess: 'Yêu em ❤',
+    mess: 'Anh biết mà ❤',
     messDesc: 'Vậy thì tin nhắn cho anh đi chứ',
     btnAccept: '❤',
     messLink: 'http://www.facebook.com/messages/t/100006317044070' //link mess
